@@ -1,0 +1,13 @@
+***Variables***
+${Create_Account_button_xpath}          //div[@class="agileits_header"]//a[text()="Create Account"]
+${Full_name_input_xpath}                //input[@id="FullName"]
+${Login_button_xpath}                   //div[@class="agile-login"]//a[text()="Login"]
+${User_name_login_input_xpath}          //input[@id="UserName"]
+${Password_input_xpath}                 //input[@id="Password"]
+${Account_xpath}                                     //span[@id="Header_LoginViewHeader_LoginName1" and text()="INPUT_NAME"]
+${Log_in_xpath}                         //input[@id="LoginButton"]
+${Log_out_button_xpath}                    //a[text()="Logout"]
+${Register_Here_button_xpath}                         //a[text()="Register Here"]
+${Register_Here_title_xpath}    //h2[text()="Register Here"]  
+${Top_selling_offers_title_xpath}  //h2[text()="Top selling offers"]
+${Home_button_xpath}                //div[@class="login-form-grids animated wow slideInUp"]//a[text()="Home"]
